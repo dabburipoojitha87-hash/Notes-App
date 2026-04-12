@@ -41,9 +41,11 @@ Translation: open → type → save → leave. No philosophical journey required
 
 ## 📸 Screenshots
 
-![alt text](<Screenshots/Home (Grid View).jpeg>)
-![alt text](<Screenshots/Home (List View).jpeg>)
-![alt text](<Screenshots/Note Editor.jpeg>)
+<p align="center">
+  <img src="Screenshots/Home (Grid View).jpeg" width="220">
+  <img src="Screenshots/Home (List View).jpeg" width="220">
+  <img src="Screenshots/Note Editor.jpeg" width="220">
+</p>
 
 ---
 _Designed to help you pretend you're productive._ 
