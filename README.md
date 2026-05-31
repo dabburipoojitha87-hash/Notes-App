@@ -49,3 +49,6 @@ Translation: open → type → save → leave. No philosophical journey required
 
 ---
 _Designed to help you pretend you're productive._ 
+
+Download latest APK:
+https://github.com/dabburipoojitha87-hash/Notes-App/releases
